@@ -7,7 +7,7 @@
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
-  "author": "Harshit Sharma",
+  "author": "Saksham Malik",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
