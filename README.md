@@ -11,7 +11,7 @@
 </ol>
 
 <div align="center">
-  <a href="https://www.instagram.com/harshitethic/">
-    <img src="https://img.shields.io/badge/Follow%20%40harshitethic-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
+  <a href="https://www.instagram.com/mr_saksham_malik/">
+    <img src="https://img.shields.io/badge/Follow%20%40mr_saksham_malik-Follow%20on%20Instagram-833AB4?logo=instagram&style=for-the-badge" alt="Instagram follow button">
   </a>
 </div>
